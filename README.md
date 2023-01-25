@@ -6,6 +6,7 @@ Vocal Synthesizer is a powerful tool that uses cutting-edge AI algorithms to tra
 - Research and learn about high-quality audio generation models such as WaveNet, SampleRNN, and GANSynth.
   - https://google-research.github.io/seanet/audiolm/examples/
   - https://magenta.tensorflow.org/music-transformer
+  - https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html
 - Research and learn about libraries and tools for audio manipulation, like Librosa, Soundfile, and PyDub.
 - Gain a deep understanding of AI techniques for audio processing, including machine learning, deep learning, and neural networks.
 - Build a working prototype of the Vocal Synthesizer tool.
